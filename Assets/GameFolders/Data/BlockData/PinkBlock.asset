@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13504f60f0066fb46ad1433ffc130200, type: 3}
+  m_Name: PinkBlock
+  m_EditorClassIdentifier: 
+  BlockColor: {r: 1, g: 0.5330188, b: 0.7930139, a: 1}
+  ColorID: 3333
+  DefaultIcon: {fileID: 21300000, guid: c09326c36e1b05542b4c033d444a9ae0, type: 3}
+  IconA: {fileID: 21300000, guid: bd4c162a8f0b12a4c8f2aa615d83fbf8, type: 3}
+  IconB: {fileID: 21300000, guid: 3f202faad62aa704e90d1ea9d298e56d, type: 3}
+  IconC: {fileID: 21300000, guid: 5c91612be0be00e49bc2f17ec7576e90, type: 3}
